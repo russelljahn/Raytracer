@@ -1,7 +1,7 @@
 Raytracer
 =========
 
-*The first raytracer I've written.*
+*A raytracer written in C++.*
 
 
 
