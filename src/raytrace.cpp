@@ -547,7 +547,6 @@ Color traceRay(const Vector &rayStartPoint, const Vector &rayDirection, int dept
 
     /* If the ray intersected with the light, then return the light color, minus any attenuation. */
     if (isLight(intersectionObject)) {
-        cout << "IS LIGHT!" << endl;
         return intersectionObject.material.color;
     }
 
