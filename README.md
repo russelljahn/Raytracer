@@ -14,13 +14,13 @@ Raytracer
 
 ###### Prerequisites:
 
-It uses OpenGL to draw the image to the screen, and assumes you have any needed OpenGL libraries already installed on your machine.
+&#160;&#160;&#160;&#160;&#160;&#160;It uses OpenGL to draw the image to the screen, and assumes you have any needed OpenGL libraries already installed on your machine.
 
 
 
 ###### To Run:
 
-Navigate to the 'src' directory, and run the following commands...
+&#160;&#160;&#160;&#160;&#160;&#160;Navigate to the 'src' directory, and run the following commands...
 
 ```
 make raytrace
@@ -30,7 +30,7 @@ make raytrace
 
 ###### To Quit:
 
-You have to manually terminate it in the terminal through CTRL+C.
+&#160;&#160;&#160;&#160;&#160;&#160;You have to manually terminate it in the terminal through CTRL+C.
 
 ######Software License:
-This software is licensed under the [GNU General Public License](http://en.wikipedia.org/wiki/GNU_General_Public_License).
+&#160;&#160;&#160;&#160;&#160;&#160;All code that I have written is licensed under the [GNU General Public License](http://en.wikipedia.org/wiki/GNU_General_Public_License). A copy of this license is located in LICENSE.md in the repository. I did not write the code in *lowlevel.h* and *lowlevel.cpp*, and thus it isn't covered under this license. If you have questions regarding this, please contact me directly.
